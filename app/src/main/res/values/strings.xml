@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdiuoRecord60</string>
+    <string name="record_fragment_tag">RecordFragment</string>
+    <string name="voicelist_fragment_tag">VoiceListFragment</string>
+</resources>
